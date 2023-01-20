@@ -1,7 +1,7 @@
 # README
 
 # カタログ設計
-https://docs.google.com/spreadsheets/d/14CIShqzUtPbU5hLUM6UOe1vP7OX2FuXUlUsmAAPRiNg/edit?usp=sharing
+https://docs.google.com/spreadsheets/d/1UQFRxmd0E61oRdTWOmyigVZZpSKiZJ3YZL7XOeFtLX8/edit?usp=sharing
 
 <br>
 
