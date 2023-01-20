@@ -1,5 +1,23 @@
 # README
 
+# 開発言語
+- Ruby
+- Ruby on Rails
+
+<br>
+
+# 実行手順
+```plain text
+$ git clone git@github.com:dai-gi/Liftee.git
+$ cd Liftee
+$ bundle install
+$ rails db:create
+$ rails db:migrate
+$ rails s
+```
+
+<br>
+
 # カタログ設計
 https://docs.google.com/spreadsheets/d/1UQFRxmd0E61oRdTWOmyigVZZpSKiZJ3YZL7XOeFtLX8/edit?usp=sharing
 
