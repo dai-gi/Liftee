@@ -26,10 +26,16 @@ https://docs.google.com/spreadsheets/d/1UQFRxmd0E61oRdTWOmyigVZZpSKiZJ3YZL7XOeFt
 
 <br>
 
-## テーブル設計
+## テーブル定義書
 
 https://docs.google.com/spreadsheets/d/14CIShqzUtPbU5hLUM6UOe1vP7OX2FuXUlUsmAAPRiNg/edit?usp=sharing
 
+
+<br>
+
+## ワイヤーフレーム
+
+https://www.figma.com/file/wjT9V9WVcUqWa1fcP7RRBc/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0?t=EgCt479q9U5T99fz-6
 
 <br>
 
