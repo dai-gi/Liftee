@@ -39,6 +39,12 @@ https://www.figma.com/file/wjT9V9WVcUqWa1fcP7RRBc/%E3%83%AF%E3%82%A4%E3%83%A4%E3
 
 <br>
 
+## ER図
+
+![ER1](https://user-images.githubusercontent.com/59759668/220127695-03439603-7878-4255-842d-00114d31ba49.png)
+
+<br>
+
 ## 画面遷移図
 
 ![Liftee 画面遷移図](https://user-images.githubusercontent.com/59759668/212681934-6c9f6ab2-fd5e-4b6e-9aab-bf976c66cbb1.png)
