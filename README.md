@@ -41,7 +41,7 @@ https://www.figma.com/file/wjT9V9WVcUqWa1fcP7RRBc/%E3%83%AF%E3%82%A4%E3%83%A4%E3
 
 ## ER図
 
-![ER1](https://user-images.githubusercontent.com/59759668/220127695-03439603-7878-4255-842d-00114d31ba49.png)
+![ER1 (1)](https://user-images.githubusercontent.com/59759668/220319317-250cd465-dba6-4ff3-a426-5f0eb9f52ae2.png)
 
 <br>
 
