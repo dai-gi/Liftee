@@ -2,8 +2,8 @@
 
 ## 開発言語
 
-- Ruby
-- Ruby on Rails
+- Ruby3.0.1
+- Rails6.0.3
 
 <br>
 
@@ -35,16 +35,16 @@ https://docs.google.com/spreadsheets/d/14CIShqzUtPbU5hLUM6UOe1vP7OX2FuXUlUsmAAPR
 
 ## ワイヤーフレーム
 
-https://www.figma.com/file/wjT9V9WVcUqWa1fcP7RRBc/%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%BC%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0?t=EgCt479q9U5T99fz-6
+https://cacoo.com/diagrams/11ZB5x8jr03OlpN4-09188.png
 
 <br>
 
 ## ER図
 
-![ER1 (1)](https://user-images.githubusercontent.com/59759668/220319317-250cd465-dba6-4ff3-a426-5f0eb9f52ae2.png)
+![ER図](https://user-images.githubusercontent.com/59759668/222733174-c4173288-3242-4be5-9479-4626efead15b.png)
 
 <br>
 
 ## 画面遷移図
 
-![Liftee 画面遷移図](https://user-images.githubusercontent.com/59759668/212681934-6c9f6ab2-fd5e-4b6e-9aab-bf976c66cbb1.png)
+![画面遷移図](https://user-images.githubusercontent.com/59759668/222734920-def67688-eb6d-4f89-b357-c41d66c9d5b7.png)
