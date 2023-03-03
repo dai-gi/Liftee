@@ -41,10 +41,10 @@ https://cacoo.com/diagrams/11ZB5x8jr03OlpN4-09188.png
 
 ## ER図
 
-![ER図](https://user-images.githubusercontent.com/59759668/222733174-c4173288-3242-4be5-9479-4626efead15b.png)
+![ER図 version3.1](https://user-images.githubusercontent.com/59759668/222737108-d44d253c-833e-4800-9a60-1d33a73a7f90.png)
 
 <br>
 
 ## 画面遷移図
 
-![画面遷移図](https://user-images.githubusercontent.com/59759668/222734920-def67688-eb6d-4f89-b357-c41d66c9d5b7.png)
+![画面遷移図 version2](https://user-images.githubusercontent.com/59759668/222734920-def67688-eb6d-4f89-b357-c41d66c9d5b7.png)
