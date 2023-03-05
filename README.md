@@ -28,8 +28,7 @@ https://docs.google.com/spreadsheets/d/1UQFRxmd0E61oRdTWOmyigVZZpSKiZJ3YZL7XOeFt
 
 ## テーブル定義書
 
-https://docs.google.com/spreadsheets/d/14CIShqzUtPbU5hLUM6UOe1vP7OX2FuXUlUsmAAPRiNg/edit?usp=sharing
-
+https://docs.google.com/spreadsheets/d/1UQFRxmd0E61oRdTWOmyigVZZpSKiZJ3YZL7XOeFtLX8/edit?usp=sharing
 
 <br>
 
@@ -41,10 +40,10 @@ https://cacoo.com/diagrams/11ZB5x8jr03OlpN4-09188.png
 
 ## ER図
 
-![ER図 version3.1](https://user-images.githubusercontent.com/59759668/222737108-d44d253c-833e-4800-9a60-1d33a73a7f90.png)
+![ER図 version3.2](https://user-images.githubusercontent.com/59759668/222965713-17ee5c8e-b162-4874-abba-1276b3d86ed1.png)
 
 <br>
 
 ## 画面遷移図
 
-![画面遷移図 version2](https://user-images.githubusercontent.com/59759668/222734920-def67688-eb6d-4f89-b357-c41d66c9d5b7.png)
+![画面遷移図 version3](https://user-images.githubusercontent.com/59759668/222965832-3f89abcb-bdd4-4a64-8072-6fea952051a1.png)
