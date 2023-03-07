@@ -34,13 +34,13 @@ https://docs.google.com/spreadsheets/d/1UQFRxmd0E61oRdTWOmyigVZZpSKiZJ3YZL7XOeFt
 
 ## ワイヤーフレーム
 
-https://cacoo.com/diagrams/11ZB5x8jr03OlpN4-09188.png
+https://cacoo.com/diagrams/11ZB5x8jr03OlpN4/09188
 
 <br>
 
 ## ER図
 
-![ER図 version3.2](https://user-images.githubusercontent.com/59759668/222965713-17ee5c8e-b162-4874-abba-1276b3d86ed1.png)
+![ER図 version3.3](https://user-images.githubusercontent.com/59759668/223550860-f5474a51-7e0c-4ba6-a961-f0d6dde41cc1.png)
 
 <br>
 
