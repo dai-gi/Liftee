@@ -40,7 +40,7 @@ https://cacoo.com/diagrams/11ZB5x8jr03OlpN4/09188
 
 ## ER図
 
-![ER図 version3.3](https://user-images.githubusercontent.com/59759668/223550860-f5474a51-7e0c-4ba6-a961-f0d6dde41cc1.png)
+![ER図 version3.4](https://user-images.githubusercontent.com/59759668/223709217-3aae603e-768f-4131-865a-191b21d1e813.png)
 
 <br>
 
